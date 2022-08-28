@@ -79,6 +79,7 @@ PLATFORMS
 
 DEPENDENCIES
   bulma-clean-theme
+  jekyll (~> 4.2)
   jekyll-feed (~> 0.6)
   jekyll-paginate
   jekyll-redirect-from

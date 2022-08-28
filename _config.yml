@@ -6,7 +6,7 @@ email: webmaster@pickawaydems.org
 description: >
   The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
 baseurl: ""
-url: "https://pickawaydems.org"
+url: "https://pickawaydems.github.io"
 permalink: pretty
 theme: bulma-clean-theme
 fixed_navbar: top
