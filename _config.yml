@@ -8,7 +8,7 @@ description: >
 baseurl: ""
 url: "https://pickawaydems.github.io"
 permalink: pretty
-theme: bulma-clean-theme
+remote_theme: chrisrhymes/bulma-clean-theme
 fixed_navbar: top
 #favicon: /path/to/favicon.png
 #gh_sponsor: chrisrhymes
