@@ -26,6 +26,6 @@
 - name: News
   link: /#
 - name: Events
-  link: /#
+  link: /events
 - name: Contact Us
   link: /#contactus
