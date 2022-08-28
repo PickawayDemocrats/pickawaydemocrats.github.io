@@ -1,0 +1,62 @@
+<footer class="footer">
+    <div class="container has-text-centered">
+            <a name="contactus">
+	    <a href="mailto:{{ site.social-network-links.email }}" title="Email us">
+	      <span class="fa-stack fa-lg" aria-hidden="true">
+		<i class="fas fa-circle fa-stack-2x"></i>
+		<i class="fas fa-envelope fa-stack-1x fa-inverse"></i>
+	      </span>
+	      <span class="sr-only">Email us</span>
+	   </a>
+	   <a href="tel:{{ site.social-network-links.telephone }}" title="Phone">
+	      <span class="fa-stack fa-lg" aria-hidden="true">
+		<i class="fas fa-circle fa-stack-2x"></i>
+		<i class="fas fa-phone fa-stack-1x fa-inverse"></i>
+	      </span>
+	      <span class="sr-only">Phone</span>
+	   </a>
+	   <a href="https://www.facebook.com/{{ site.social-network-links.facebook }}" title="Facebook">
+	      <span class="fa-stack fa-lg" aria-hidden="true">
+		<i class="fas fa-circle fa-stack-2x"></i>
+		<i class="fab fa-facebook fa-stack-1x fa-inverse"></i>
+	      </span>
+	      <span class="sr-only">Facebook</span>
+	   </a>
+	   <a href="https://twitter.com/{{ site.social-network-links.twitter }}" title="Twitter">
+	      <span class="fa-stack fa-lg" aria-hidden="true">
+		<i class="fas fa-circle fa-stack-2x"></i>
+		<i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
+	      </span>
+	      <span class="sr-only">Twitter</span>
+	   </a>
+	   <a href="https://www.instagram.com/{{ site.social-network-links.instagram }}" title="Instagram">
+	      <span class="fa-stack fa-lg" aria-hidden="true">
+		<i class="fas fa-circle fa-stack-2x"></i>
+		<i class="fab fa-instagram fa-stack-1x fa-inverse"></i>
+	      </span>
+	      <span class="sr-only">Instagram</span>
+	   </a>
+
+
+    </div>
+    
+    <div class="container">         
+
+        {% if site.footer_menu %}
+        <div class="columns is-multiline">
+            {% for item in site.data[site.footer_menu] %}
+            <div class="column has-text-centered">
+                <div>
+                    <a href="{{ item.link | relative_url }}" class="link">{{ item.name }}</a>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+        {% endif %}
+
+        <div class="content is-small has-text-centered">
+        <br>
+            <p class="">Paid for by the Pickaway County Democratic Party and not authorized by any candidate or candidate’s committee.</p>
+        </div>
+    </div>
+</footer>
