@@ -5,26 +5,15 @@
       link: /members
     - name: Constitution & Bylaws
       link: /rules
-    - name: Meetings
-      link: /#
 - name: Voter Info
   link: /#
   dropdown:
-    - name: Nov 2022 Candidates
-      link: /nov22candidates
+    - name: Candidates
+      link: /candidates
     - name: Register to Vote
       link: https://olvr.ohiosos.gov/
-- name: Get Involved
-  link: /#
-  dropdown:
-    - name: Run for Office
-      link: /#
-    - name: Volunteer
-      link: /#
-    - name: Join Us
-      link: /#
-- name: News
-  link: /#
+    - name: Current Office Holders
+      link: /officials
 - name: Events
   link: /events
 - name: Contact Us

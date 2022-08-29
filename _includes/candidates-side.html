@@ -1,0 +1,25 @@
+<style>
+.box{
+    background-color: #FFFFFF;
+    }
+</style>
+<div class="box">
+<p class="title is-4" style="text-align:center">Next Meeting</p>
+<p style="font-size:22px;text-align:center">{{ site.data.nextmeeting.month }} {{ site.data.nextmeeting.day }} at 6:30PM<br></p>
+<p style="font-size:12px;text-align:center">{{ site.data.nextmeeting.location }}<br>{{ site.data.nextmeeting.address }}</p>
+</div>
+<div class="box">
+<p class="title is-4" style="text-align:center">Candidates</p>
+    {% for level in site.data.candidates %} 
+      {% for item in level %}
+
+          <div>
+            <p style="font-size:16px;font-family:verdana;text-align:center""><b>{{ item.name }}</b></p>
+            <p style="font-size:12px;text-align:center">{{ item.office }}</p><br>
+          </div>
+
+      {% endfor %}
+    {% endfor %}
+</div>
+
+

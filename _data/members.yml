@@ -1,0 +1,64 @@
+chair: Carolyn Loxley
+vc: Paul Hastings
+secretary: Debbi McCoy
+treasurer: Susan Welsh
+atlarge:
+    - name: Bob Bensonhaver
+    - name: Jim McCoy
+central:    
+    - precinct: Perry / New Holland
+    - precinct: Scioto North
+    - precinct: Scioto South
+    - precinct: Circleville South
+      name: Jeanette Gearhart
+    - precinct: Pickaway East
+      name: Brad Cotton
+    - precinct: Pickaway West
+    - precinct: Darby Clarks Lake
+    - precinct: Darby North
+    - precinct: Darby South
+    - precinct: Circleville 1A
+      name: Shannon McKibben
+    - precinct: Circleville 1B
+      name: Karen Bensonhaver
+    - precinct: Circleville 1C
+      name: Michael Frost
+    - precinct: Circleville 2A
+      name: Mike Branham
+    - precinct: Circleville 2B
+    - precinct: Circleville 3A
+      name: Anne Canan
+    - precinct: Circleville 3B
+    - precinct: Circleville 4A
+    - precinct: Circleville 4B
+    - precinct: Circleville North
+      name: Debbi McCoy
+    - precinct: Circleville Northwest
+    - precinct: Commercial Point East
+    - precinct: Commercial Point West
+    - precinct: Deercreek / Williamsport
+      name: Paul Hastings
+    - precinct: Jackson Township
+      name: Susan Welsh
+    - precinct: Wayne Township
+    - precinct: Washington Central
+    - precinct: Washington North
+    - precinct: Washington South
+      name: Marsha Few
+    - precinct: Madison Township
+    - precinct: Monroe Township
+    - precinct: Darbyville / Muhlenberg
+      name: Carolyn Loxley
+    - precinct: Scioto Northeast
+    - precinct: Southern Point
+    - precinct: Saltcreek North / Tarlton
+    - precinct: Saltcreek South
+    - precinct: South Bloomfield North
+      name: Cathy Sapp
+    - precinct: South Bloomfield South
+    - precinct: Harrison Township
+    - precinct: Ashville North
+    - precinct: Walnut East
+    - precinct: Walnut West
+    - precinct: Ashville East
+    - precinct: Ashville West
