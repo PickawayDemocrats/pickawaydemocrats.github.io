@@ -6,6 +6,8 @@ subtitle: This is the demo site for Bulma Clean Theme
 layout: page
 callouts: home_callouts
 show_sidebar: true
+show_latest_posts: false
+show_candidates: true
 ---
 
 # Bulma Clean Theme demo website
