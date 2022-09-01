@@ -10,6 +10,7 @@ url: "https://pickawaydems.github.io"
 permalink: pretty
 remote_theme: chrisrhymes/bulma-clean-theme
 fixed_navbar: top
+footer_menu: footer_menu
 #favicon: /path/to/favicon.png
 #gh_sponsor: chrisrhymes
 #hide_share_buttons: true
