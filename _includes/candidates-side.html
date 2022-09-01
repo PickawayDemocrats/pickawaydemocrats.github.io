@@ -9,7 +9,7 @@
 <p style="font-size:12px;text-align:center">{{ site.data.nextmeeting.location }}<br>{{ site.data.nextmeeting.address }}</p>
 </div>
 <div class="box">
-<p class="title is-4" style="text-align:center">Candidates</p>
+<p class="title is-4" style="text-align:center"><a href="{% link candidates.md %}">Candidates</p></a>
     {% for level in site.data.candidates %} 
       {% for item in level %}
 
