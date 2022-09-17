@@ -8,7 +8,8 @@ description: >
 baseurl: ""
 url: "https://pickawaydemocrats.github.io"
 permalink: pretty
-remote_theme: chrisrhymes/bulma-clean-theme
+#remote_theme: chrisrhymes/bulma-clean-theme
+theme: bulma-clean-theme
 fixed_navbar: top
 footer_menu: footer_menu
 #favicon: /path/to/favicon.png

@@ -1,0 +1,42 @@
+---
+---
+// Import Main CSS file from theme
+@import "main";
+.cdtext {
+  @include mobile {
+    font-size: 10vw;
+    font-family: sans-serif;
+    font-weight: bold;
+  }
+
+  @include tablet-only {
+    font-size: 60px;
+    font-family: sans-serif;
+    font-weight: bold;
+  }
+  
+  @include desktop {
+    font-size: 80px;
+    font-family: sans-serif;
+    font-weight: bold;
+  } 
+} 
+.cdsubtext {
+  @include mobile {
+    font-size: 3vw;
+    font-family: sans-serif;
+    font-weight: bold;
+  }
+
+  @include tablet-only {
+    font-size: 14px;
+    font-family: sans-serif;
+    font-weight: bold;
+  }
+  
+  @include desktop {
+    font-size: 18px;
+    font-family: sans-serif;
+    font-weight: bold;
+  } 
+}

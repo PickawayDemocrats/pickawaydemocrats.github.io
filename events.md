@@ -1,5 +1,6 @@
 ---
 title: Events
+description: Events calendar for the Pickaway County Democratic Party
 hide_hero: true
 hero_height: 0
 subtitle: Events for the Pickaway County Democratic Party
