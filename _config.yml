@@ -14,7 +14,7 @@ footer_menu: footer_menu
 #theme_color: '#0080FF'
 #fixed_navbar: top
 #direction: one of <ltr, rtl, auto>, default: ltr
-
+#contribute: ""
 paginate: 5
 paginate_path: "/blog/page:num"
 

@@ -88,6 +88,14 @@ var x = setInterval(function() {
 <div class="buttons are-medium are-responsive is-centered">
   <a class="button is-link" href="https://lookup.boe.ohio.gov/vtrapp/pickaway/vtrlookup.aspx#">Check Voter Registration</a>
   <a class="button is-link" href="https://www.boe.ohio.gov/pickaway/voter-registration-information/how-to-register/">Register to Vote</a>
+  {% if site.contribute %}
+  <a class="button is-link" href="{{ site.contribute}}">
+    <span class="icon">
+      <i class="fa fa-hand-holding-usd"></i>
+    </span>
+    <span> Contribute</span>
+  </a>  
+  {% endif %}
 </div>
 
 <h3>Registration deadlines</h3>
