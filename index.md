@@ -13,7 +13,7 @@ show_candidates: true
 ## We are the Pickaway County Democratic party.
 ### Our mission is to work together to elect democracy-supporting, civic-minded individuals to local, state, and national offices.
 
-<div class="box" style="background-color:blue; color: white;">
+<div class="box" style="background-color:#0044c9; color: white;">
 
 <div class="has-text-centered is-size-3-mobile is-size-2-tablet is-size-1-desktop has-text-weight-bold">2022 General Election</div>
 <div id="countdown" align="center" class="is-size-4-touch is-size-3-desktop"></div>
