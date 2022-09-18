@@ -20,7 +20,7 @@ show_latest_posts: false
 <h1>Pickaway County Democratic Party<br>Central & Executive Committees</h1>
 <p style="font-size:16px">The Pickaway County Democratic Party is governed by the Central Committee which in turn confers all power and authority upon the Executive Committee pursuant to the party's constitution and by-laws.<br><br>
 
-Every two years (in even-numbered years) during the primary election, each of the 34 voting precincts in the county elect one person to represent their respective precinct on the central committee.  Following the election, the Central Committee members meet, organize and elect officers to lead the party for the next two years.</p>
+Every two years (in even-numbered years) during the primary election, each of the 43 voting precincts in the county elect one person to represent their respective precinct on the central committee.  Following the election, the Central Committee members meet, organize and elect officers to lead the party for the next two years.</p>
 
 <h2>Leadership</h2>
 <p style="font-size:20px">Chairperson - {{ site.data.members.chair }}<br>
