@@ -29,6 +29,7 @@ central:
     - precinct: Circleville 3A
       name: Anne Canan
     - precinct: Circleville 3B
+      name: Cameron Jones
     - precinct: Circleville 4A
     - precinct: Circleville 4B
     - precinct: Circleville North
@@ -50,6 +51,7 @@ central:
     - precinct: Darbyville / Muhlenberg
       name: Carolyn Loxley
     - precinct: Scioto Northeast
+      name: Amber Mayle
     - precinct: Southern Point
     - precinct: Saltcreek North / Tarlton
     - precinct: Saltcreek South
