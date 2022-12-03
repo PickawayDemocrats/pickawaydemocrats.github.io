@@ -8,8 +8,6 @@
 - name: Voter Info
   link: /#
   dropdown:
-    - name: Candidates
-      link: /candidates
     - name: Register to Vote
       link: https://olvr.ohiosos.gov/
     - name: Current Office Holders
