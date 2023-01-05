@@ -9,6 +9,7 @@ central:
     - precinct: Perry / New Holland
     - precinct: Scioto North
     - precinct: Scioto South
+      name: Stephanie Holsinger
     - precinct: Circleville South
       name: Jeanette Gerhart
     - precinct: Pickaway East
@@ -54,6 +55,7 @@ central:
       name: Amber Mayle
     - precinct: Southern Point
     - precinct: Saltcreek North / Tarlton
+      name: Sharon Crosby
     - precinct: Saltcreek South
     - precinct: South Bloomfield North
       name: Cathy Sapp
