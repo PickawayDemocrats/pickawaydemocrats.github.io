@@ -5,9 +5,10 @@
 </style>
 <div class="box">
 <p class="title is-4" style="text-align:center">Next Meeting</p>
-<p style="font-size:22px;text-align:center">{{ site.data.nextmeeting.month }} {{ site.data.nextmeeting.day }} at {{ site.data.nextmeeting.time }}<br></p>
+<p style="font-size:22px;text-align:center">{{ site.data.nextmeeting.month }} {{ site.data.nextmeeting.day }}{% if site.data.nextmeeting.time != nil %} at {{ site.data.nextmeeting.time }}{% endif %}<br></p>
 <p style="font-size:12px;text-align:center">{{ site.data.nextmeeting.location }}<br>{{ site.data.nextmeeting.address }}</p>
 </div>
+{% if page.show_candidates %}
 <div class="box">
 <p class="title is-4" style="text-align:center"><a href="{% link candidates.md %}">Candidates</p></a>
     {% for level in site.data.candidates %} 
@@ -21,5 +22,4 @@
       {% endfor %}
     {% endfor %}
 </div>
-
-
+{% endif %}

@@ -46,11 +46,7 @@
                   {% if page.show_latest_posts %}                  
                    {% include latest-posts.html %}                  
                   {% endif %}
-                  {% if page.show_candidates %}
-                   {% include candidates-side.html %}
-                  {% else %}
-                   {% include default-side.html %}
-                  {% endif %}
+                  {% include side.html %}
                  </div>
                 {% endif %}
             </div>
