@@ -12,6 +12,8 @@
   dropdown:
     - name: Register to Vote
       link: https://olvr.ohiosos.gov/
+    - name: Am I Registered?
+      link: https://lookup.boe.ohio.gov/vtrapp/pickaway/vtrlookup.aspx#
     - name: Current Office Holders
       link: /officials
 - name: Events
