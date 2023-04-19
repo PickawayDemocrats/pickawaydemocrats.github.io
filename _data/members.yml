@@ -5,6 +5,7 @@ treasurer: Amber Mayle
 atlarge:
     - name: Bob Bensonhaver
     - name: Jim McCoy
+    - name: Mike Branham
 central:    
     - precinct: Perry / New Holland
     - precinct: Scioto North
@@ -19,13 +20,12 @@ central:
     - precinct: Darby North
     - precinct: Darby South
     - precinct: Circleville 1A
-      name: Shannon McKibben
+      name: Jesseca LoConti
     - precinct: Circleville 1B
       name: Karen Bensonhaver
     - precinct: Circleville 1C
       name: Michael Frost
     - precinct: Circleville 2A
-      name: Mike Branham
     - precinct: Circleville 2B
     - precinct: Circleville 3A
       name: Anne Canan
