@@ -14,9 +14,8 @@ show_candidates: false
 <figure class="image is-4by5">
 	<img src="/assets/engage.png">
 </figure>
-<div class="title is-2 has-text-centered">
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSd6NEQV3RqpdNCltTntHKc6Mzl4_4l5S60AvRM6Sq2eC8eqgg/viewform?usp=sf_link">Apply Here</a>
-</div>
+
+<span class="title is-3">The application process for 2023 has concluded, we plan to start the process again in February 2024.</span>
 
 Thank you for your interest in the Pickaway County Democratic
 Scholarship Club Program. Our scholarship program is intended to expand
@@ -31,9 +30,6 @@ experiences after graduation from high school.
 Do you have a special interest you would like to pursue with further learning?
 Going off to college or trade school? Any of these will qualify you enter to
 receive one of these competitive awards.
-
-<span class="title is-3">The application process opens on February 15, 2023 and closes on
-April 15, 2023.</span>
 
 This is the first annual <b>ENGAGE FOR THE FUTURE</b> scholarship award. One non-
 partisan scholarship will be awarded to a high school senior in each of the four
@@ -56,7 +52,7 @@ skill, special interest, or learning experience within six months of
 graduation.
 
 <span class="title is-4">How to Enter</span>
-1. Complete an [application](https://docs.google.com/forms/d/e/1FAIpQLSd6NEQV3RqpdNCltTntHKc6Mzl4_4l5S60AvRM6Sq2eC8eqgg/viewform?usp=sf_link)
+1. Complete an application.
 2. Create a project for submission that conveys your understanding of
 community engagement, support of democracy, and/or civic
 responsibility.
@@ -65,7 +61,7 @@ photography, video), music, poetry, live performance (with a
 written script), or an essay.
 3. Complete the application and, if your project can be submitted digitally,
 submit it to the site below. If your project is a physical product, submit
-a written or photo description with your [application](https://docs.google.com/forms/d/e/1FAIpQLSd6NEQV3RqpdNCltTntHKc6Mzl4_4l5S60AvRM6Sq2eC8eqgg/viewform?usp=sf_link) no later than April 15.
+a written or photo description with your application no later than April 15.
 
 <span class="title is-4">Evaluation Criteria</span>
 1. Projects will be evaluated by a group of a minimum of 3 individuals from
