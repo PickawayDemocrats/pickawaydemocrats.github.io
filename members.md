@@ -1,8 +1,8 @@
 ---
 title: Central & Exectutive Committee Members
 description: List of members for the central and executive committees for the Pickaway County Democratic Party
-hide_hero: true
-hero_height: 0
+hide_hero: false
+hero_height: is_small
 layout: page
 callouts: 
 show_sidebar: false

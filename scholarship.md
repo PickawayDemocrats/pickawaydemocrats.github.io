@@ -12,7 +12,7 @@ show_candidates: false
 <h2 class="is-size-1 has-text-centered">Engage for the Future Scholarship</h2>
 
 <figure class="image is-4by5">
-	<img src="/assets/engage.png">
+	<img src="/img/engage.png">
 </figure>
 
 <span class="title is-3">The application process for 2023 has concluded, we plan to start the process again in February 2024.</span>
@@ -98,7 +98,7 @@ materials. If used in such a manner, credit and acknowledgement will be
 given to the author/creator.
 
 <figure class="image is-3by1">
-	<img src="/assets/engagefooter.png">
+	<img src="/img/engagefooter.png">
 </figure>
 
 Contact: Carolyn Loxley
