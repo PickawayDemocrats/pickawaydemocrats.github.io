@@ -10,18 +10,28 @@ show_latest_posts: true
 show_candidates: false
 ---
 
+<style>
+.horizontal-line {
+    padding-top: 20px;
+    border-top: 5px solid #1884B3; 
+}
+</style>
 ## We are the Pickaway County Democratic party.
 ### Our mission is to work together to elect democracy-supporting, civic-minded individuals to local, state, and national offices.
+<h2 class="title is-3 horizontal-line">
+Special Election: August 8th
+</h2>
+<p class="is-size-5">
+July 10: Voter Registration Deadline<br>
+July 11: Early Voting Begins<br>
+August 1: Absentee Ballot Request Deadline<br>
+</p>
 
-The Pickaway County Democratic Party announces a meeting of the central committee members from ward 3 in the city of Circleville for the purpose of selecting a replacement candidate for the November 7, 2023 ballot for city council in the city of Circleville.
-
-The meeting will be held at the county annex building south parking lot behind 141 W. Main St., Circleville, OH. It will be held at 4 PM on Monday, May 8.
-
-<figure class="image is-4by5">
-	<img src="/img/HJR1.png">
-</figure>
-<div class="is-size-3">
-<a href="/assets/May-10-Flyer-Church-2.pdf">Download flyer PDF</a><br>
-
-<a href="https://act.commoncause.org/events/may-10-no-on-hjr1-day-of-action/"><b>RSVP</b> here</a>
-</div>
+<h2 class="title is-3 horizontal-line">
+General Election: November 7th
+</h2>
+<p class="is-size-5">
+October 10: Voter Registration Deadline<br>
+October 11: Early Voting Begins<br>
+October 31: Absentee Ballot Request Deadline<br>
+</p>
