@@ -32,13 +32,21 @@ window.addEventListener("load", function() {
     border-top: 5px solid #1884B3; 
 }
 </style>
+## We are the Pickaway County Democratic party.
+### Our mission is to work together to elect democracy-supporting, civic-minded individuals to local, state, and national offices.
+
 <a href="https://votenoinaugust.org/">
 	<figure class="image is-3by2">
 		<img src="/img/OPOV 2 Color -Logo1.png">
 	</figure>
 </a>
-## We are the Pickaway County Democratic party.
-### Our mission is to work together to elect democracy-supporting, civic-minded individuals to local, state, and national offices.
+
+### **There will be a special meeting of Central/Executive committee members representing precincts within the city of Circleville.**
+The meeting will be held at 6:15pm, July 6, 2023, at the Pickaway County Library. This will be in the Crites-Hannan meeting room immediately preceding the monthly executive committee meeting. 
+
+The purpose of this meeting is to consider nomination of candidates for the open slot on the mayoral ballot for the November election.
+
+
 
 
 <h2 class="title is-3 horizontal-line">
