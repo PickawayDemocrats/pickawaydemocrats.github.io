@@ -9,23 +9,7 @@ show_sidebar: true
 show_latest_posts: true
 show_candidates: false
 ---
-<script>
-window.addEventListener("load", function() {
-  const form = document.getElementById('petition-form');
-  form.addEventListener("submit", function(e) {
-    e.preventDefault();
-    const data = new FormData(form);
-    const action = e.target.action;
-    fetch(action, {
-      method: 'POST',
-      body: data,
-    })
-    .then(() => {
-      alert("Form Submitted, thank you!");
-    })
-  });
-});
-</script>
+
 <style>
 .horizontal-line {
     padding-top: 20px;
@@ -40,11 +24,6 @@ window.addEventListener("load", function() {
 		<img src="/img/OPOV 2 Color -Logo1.png">
 	</figure>
 </a>
-
-### **There will be a special meeting of Central/Executive committee members representing precincts within the city of Circleville.**
-The meeting will be held at 6:15pm, July 6, 2023, at the Pickaway County Library. This will be in the Crites-Hannan meeting room immediately preceding the monthly executive committee meeting. 
-
-The purpose of this meeting is to consider nomination of candidates for the open slot on the mayoral ballot for the November election.
 
 
 
