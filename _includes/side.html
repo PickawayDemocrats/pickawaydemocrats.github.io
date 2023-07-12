@@ -4,11 +4,6 @@
     }
 </style>
 <div class="box">
-<p class="title is-3" style="text-align:center">Next Meeting</p>
-<p style="font-size:22px;text-align:center">{{ site.data.nextmeeting.month }} {{ site.data.nextmeeting.day }}{% if site.data.nextmeeting.time != nil %} at {{ site.data.nextmeeting.time }}{% endif %}<br></p>
-<p style="font-size:12px;text-align:center">{{ site.data.nextmeeting.location }}<br>{{ site.data.nextmeeting.address }}</p>
-</div>
-<div class="box">
 <p class="title is-3" style="text-align:center">Fall Dinner</p>
 <p style="font-size:22px;text-align:center">August 3rd at 6PM<br></p>
 <p style="font-size:12px;text-align:center">South Bloomfield VFW<br>3301 Northrup Ave, South Bloomfield, Ohio 43103<br></p><br>
@@ -17,9 +12,16 @@
     <i class="fas fa-ticket-alt"></i>
   </span>
 Tickets & Details
-
+  <span class="icon">
+    <i class="fas fa-ticket-alt"></i>
+  </span>
 </a>
 </p>
+</div>
+<div class="box">
+<p class="title is-3" style="text-align:center">Next Meeting</p>
+<p style="font-size:22px;text-align:center">{{ site.data.nextmeeting.month }} {{ site.data.nextmeeting.day }}{% if site.data.nextmeeting.time != nil %} at {{ site.data.nextmeeting.time }}{% endif %}<br></p>
+<p style="font-size:12px;text-align:center">{{ site.data.nextmeeting.location }}<br>{{ site.data.nextmeeting.address }}</p>
 </div>
 {% if page.show_candidates %}
 <div class="box">
