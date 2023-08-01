@@ -21,24 +21,6 @@ show_candidates: false
 
 <h2 class="title is-3 horizontal-line"></h2>
 
-# NOTICE OF A SPECIAL MEETING
-
-# MONDAY, JULY 31, 2023 5:30PM
-
-# PICKAWAY COUNTY LIBRARY
-
- 
-
-The Pickaway County Democratic Party will be holding a special meeting to nominate a recommended replacement for a recently vacated seat on the Pickaway County Board of Elections.
-
-Any Democrat in the county who is nominated by a member of the party Executive Committee may be considered for this position. 
-
-The selection of our recommended representative will be by a simple majority vote of members of the Pickaway County Democratic Party Executive Committee present at the meeting.
-
-This recommendation will be submitted as a recommendation to the Pickaway County Board of Elections and ultimately to the Ohio Secretary of State for appointment to fill the position for the unexpired term of Karen Bensonhaver.
-
-<h2 class="title is-3 horizontal-line"></h2>
-
 <a href="https://votenoinaugust.org/">
 	<figure class="image is-3by2">
 		<img src="/img/OPOV 2 Color -Logo1.png">
