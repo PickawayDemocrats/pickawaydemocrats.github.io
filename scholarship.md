@@ -55,16 +55,15 @@ skill, special interest, or learning experience within six months of
 graduation.
 
 <span class="title is-4">How to Enter</span>
-1. Complete an application.
+1. Complete an application. You will need a Google account to use the form.
 2. Create a project for submission that conveys your understanding of
 community engagement, support of democracy, and/or civic
 responsibility.
 * The project can take the form of visual arts (painting, sculpture,
 photography, video), music, poetry, live performance (with a
 written script), or an essay.
-3. Complete the application and, if your project can be submitted digitally,
-submit it to the site below. If your project is a physical product, submit
-a written or photo description with your application no later than April 15.
+3. Submit your project. If it can be submitted digitally you can upload it on the application form, otherwise submit
+a written or photo description with your application no later than April 15. Please try to ***NOT*** include your name or other personally identifiable information in files that you submit.
 
 <span class="title is-4">Evaluation Criteria</span>
 1. Projects will be evaluated by a group of a minimum of 3 individuals from
@@ -100,9 +99,9 @@ or excerpts from the project in our social media and/or promotional
 materials. If used in such a manner, credit and acknowledgement will be
 given to the author/creator.
 
-<span class="title is-5">Make a contribution</span>
+<span class="title is-4">Make a contribution</span>
 
-If you would like to make a financial contribution to support the scholarship fund, please see our <a href="https://secure.actblue.com/donate/pickawayengage">ActBlue</a> page.
+If you would like to make a financial contribution to support the scholarship fund, please see our <a href="https://secure.actblue.com/donate/pickawayengage">ActBlue</a> page. Donations beyond our initial $1200 goal will be divided evenly among the scholarship recipients.
 
 <!-- This div should be included in the page where you want the goal-tracker to appear. -->
 <div data-ab-goal-tracker
