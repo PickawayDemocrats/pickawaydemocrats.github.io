@@ -9,13 +9,16 @@ show_sidebar: false
 show_latest_posts: false
 show_candidates: false
 ---
+<script>function abConfigure(c) {window.actblueConfig = c}</script>
+<script src="https://secure.actblue.com/cf/assets/actblue.js" async data-ab-source="snippet-20230804"></script>
+
 <h2 class="is-size-1 has-text-centered">Engage for the Future Scholarship</h2>
 
 <figure class="image is-4by5">
 	<img src="/img/engage.png">
 </figure>
 
-<span class="title is-3">The application process for 2023 has concluded, we plan to start the process again in February 2024.</span>
+<span class="title is-3">The application process will begin February 15th 2024 and end April 15th 2024.</span>
 
 Thank you for your interest in the Pickaway County Democratic
 Scholarship Club Program. Our scholarship program is intended to expand
@@ -24,16 +27,16 @@ based on submission of a project that describes your concept of engaging
 with democracy and community.
 
 Your application will enter you in an opportunity for a one-time scholarship
-award of $300. This scholarship can be applied to developmental learning
+award of at least $300. This scholarship can be applied to developmental learning
 experiences after graduation from high school.
 
 Do you have a special interest you would like to pursue with further learning?
 Going off to college or trade school? Any of these will qualify you enter to
 receive one of these competitive awards.
 
-This is the first annual <b>ENGAGE FOR THE FUTURE</b> scholarship award. One non-
+This is the second annual <b>ENGAGE FOR THE FUTURE</b> scholarship award. One non-
 partisan scholarship will be awarded to a high school senior in each of the four
-public school systems in Pickaway County. Each award will be for $300 and
+public school systems in Pickaway County. Each award will be for at least $300 and
 can be applied to a formal learning situation of your choice.
 This may be, for example; art classes, ceramics classes, college tuition, music
 lessons, horseback riding lessons, tech school tuition, guitar lessons, master
@@ -97,6 +100,22 @@ or excerpts from the project in our social media and/or promotional
 materials. If used in such a manner, credit and acknowledgement will be
 given to the author/creator.
 
+<span class="title is-5">Make a contribution</span>
+
+If you would like to make a financial contribution to support the scholarship fund, please see our <a href="https://secure.actblue.com/donate/pickawayengage">ActBlue</a> page.
+
+<!-- This div should be included in the page where you want the goal-tracker to appear. -->
+<div data-ab-goal-tracker
+ data-ab-name="pickawayengage"
+ data-ab-height="auto"
+ data-ab-width="100%"
+>
+  <!-- Fall-back content (in case the embeddable doesn't load) -->
+  <a href="https://secure.actblue.com/donate/pickawayengage">Donate</a>
+</div>
+
+The Pickaway County Democratic Party would like to thank our generous scholarship donors. Their endowments have funded the 2024 Engage for the Future scholarship fund in honor of the late Karen Bensonhaver. Karen dedicated her life to helping students, and we can think of no better way to honor her memory.
+
 <figure class="image is-3by1">
 	<img src="/img/engagefooter.png">
 </figure>
@@ -104,3 +123,4 @@ given to the author/creator.
 Contact: Carolyn Loxley
 <br>[Cloxley82@gmail.com](mailto:cloxley82@gmail.com)
 <br>[740-833-5144](tel:7408335144)
+
