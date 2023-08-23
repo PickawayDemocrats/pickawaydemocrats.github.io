@@ -19,23 +19,6 @@ show_candidates: false
 ## We are the Pickaway County Democratic party.
 ### Our mission is to work together to elect democracy-supporting, civic-minded individuals to local, state, and national offices.
 
-<h2 class="title is-3 horizontal-line"></h2>
-
-<a href="https://votenoinaugust.org/">
-	<figure class="image is-3by2">
-		<img src="/img/OPOV 2 Color -Logo1.png">
-	</figure>
-</a>
-
-<h2 class="title is-3 horizontal-line">
-Special Election: August 8th
-</h2>
-<p class="is-size-5">
-July 10: Voter Registration Deadline<br>
-July 11: Early Voting Begins<br>
-August 1: Absentee Ballot Request Deadline<br>
-</p>
-
 <h2 class="title is-3 horizontal-line">
 General Election: November 7th
 </h2>
