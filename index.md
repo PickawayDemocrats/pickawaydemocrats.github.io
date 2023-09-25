@@ -69,7 +69,7 @@ Issue 1:
 </ol>
 <p>D. This Section is self-executing.</p>
 </div>
-Certified Ballot Language available <a href="https://www.ohiosos.gov/globalassets/ballotboard/2023/issue-1-certified-language---08-24-23.pdf">here</a>.
+Certified Ballot Language available <a href="https://www.ohiosos.gov/globalassets/ballotboard/2023/certified-language-9-21-ballot-board.pdf">here</a>.
 <br>Wondering why the ballot language is so different? Read <a href="https://ohiocapitaljournal.com/2023/08/24/split-ballot-board-approves-reproductive-rights-amendment-summary-written-by-ohio-sec-of-state/">this article</a> from Ohio Capital Journal.
 <br>
 
