@@ -14,8 +14,12 @@
       link: https://olvr.ohiosos.gov/
     - name: Am I Registered?
       link: https://lookup.boe.ohio.gov/vtrapp/pickaway/vtrlookup.aspx#
+    - name: Pickaway Board of Elections
+      link: https://www.boe.ohio.gov/pickaway/  
     - name: Current Office Holders
       link: /officials
+- name: Get Involved
+  link: https://docs.google.com/forms/d/e/1FAIpQLSfQ10VB0RU24C72BI8LO9YG2gKFu1Bos6x86qeeTO_0jYmFvw/viewform?usp=sf_link      
 - name: News
   link: /news      
 - name: Events

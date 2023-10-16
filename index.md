@@ -16,12 +16,14 @@ show_candidates: false
     border-top: 5px solid #1884B3; 
 }
 </style>
+<div class="has-text-centered">
+<figure class="image is-inline-block">
+<img src="/img/PCDPLogo256.png">
+</figure>
+</div>
 ## We are the Pickaway County Democratic party.
 ### Our mission is to work together to elect democracy-supporting, civic-minded individuals to local, state, and national offices.
 
-<figure class="image is-1by1">
-		<img src="/img/20230824_212031.jpg">
-	</figure>
 <h2 class="title is-3 horizontal-line">
 Volunteers Needed for Pumpkin Show
 </h2>	
