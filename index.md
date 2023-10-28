@@ -25,13 +25,6 @@ show_candidates: false
 ### Our mission is to work together to elect democracy-supporting, civic-minded individuals to local, state, and national offices.
 
 <h2 class="title is-3 horizontal-line">
-Volunteers Needed for Pumpkin Show
-</h2>	
-<p>We have some open shifts to fill in covering the party booth at the Pumpkin Show.  We do 3-hour shifts and would be pleased to have Dems in the county join us in representing the party to the folks who visit during the event.<br>
-It is a fun way to show your colors and wear your blue with pride!<br><br>
-<b>Sign up using <a href="https://www.signupgenius.com/go/10C0E45AAA82CA3FBC25-2023?">SignUpGenius</a> or contact us via email/phone.</b></p>
-
-<h2 class="title is-3 horizontal-line">
 General Election: November 7th
 </h2>
 <p class="is-size-5">
