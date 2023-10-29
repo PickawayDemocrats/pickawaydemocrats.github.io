@@ -91,7 +91,7 @@ Veterans Day Donation Drive-Thru
 <div class="is-size-4">November 11th, 2023 10AM to 1PM</div><br>
 
 <p class="is-size-5">
-Join the community-wide effort to collect items for Ohio House, a shelter for veterans in Pickaway County.
+Join the community-wide effort to collect items for <a href="https://www.picca.info/homeless#transitional">Ohio House</a>, a shelter for veterans in Pickaway County.
 <br><br>
 What is needed:
 </p>
@@ -110,9 +110,9 @@ What is needed:
 * Cleaning supplies, laundry detergent
 * Donations by check made out to PICCA. Please write "Ohio House" in the memo section.
 
-Where: <a href="https://maps.app.goo.gl/KfiYAmufi5a8fAXHA">Circleville Prebyterian Church, 134 E. Mount St. Circleville, OH 43113</a>
-
-
+Where: <a href="https://maps.app.goo.gl/KfiYAmufi5a8fAXHA">Circleville Prebyterian Church, 134 E. Mount St. Circleville, OH 43113</a><br>
+<a href="/img/VeteransFlyer.jpg">Event Flyer</a><br>
+<a href="/assets/OhioHouseFlyer.pdf">Ohio House Flyer</a>
 
 <h2 class="title is-3 horizontal-line">
 Haven House Holiday
@@ -125,8 +125,8 @@ Good food, good cheer and good work as the community comes together to provide f
 
 Join us for an open house at the Hartley Home, 5 miles East of Circleville just off SR 188. Stop by to share in the joy and meaning of the season as we gather needed items. Financial donations are also welcome.
 </p>
-Where: <a href="https://maps.app.goo.gl/fgro1h2J4ECRVPbs5">18440 Woodhaven Lane Circleville, OH 43113</a>
-
+Where: <a href="https://maps.app.goo.gl/fgro1h2J4ECRVPbs5">18440 Woodhaven Lane Circleville, OH 43113</a><br>
+<a href="/img/HavenHouseFlyer.jpg">Event Flyer</a>
 
 
 
