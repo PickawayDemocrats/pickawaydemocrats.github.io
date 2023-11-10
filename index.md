@@ -38,16 +38,6 @@ show_candidates: false
 </div>
 
 <h2 class="title is-3 horizontal-line">
-Race-Class Narrative Training</h2>
-<div class="is-size-4">Thursday, November 9th, 2023 5:30PM to 8:00PM</div><br>
-<p class="is-size-5">
-Join us as we develop an understanding of the ways our personal behaviors contribute to the benefit or detriment of relationships and the health and strength of the city of Circleville and Pickaway County.<br>
-Social hour from 5:30 to 6:00 with refreshments provided.<br>
-At 6:00, Pastor Holmes will lead us in a reflection on the ways unconscious biases affect our actions and community.<br>
-</p>
-Where: <a href="https://maps.app.goo.gl/3LY9Y7auFrRAXWcB9">Second Baptist Church, 130 W Mill St, Circleville, OH 43113</a>
-
-<h2 class="title is-3 horizontal-line">
 Veterans Day Donation Drive-Thru
 </h2>
 <div class="is-size-4">November 11th, 2023 10AM to 1PM</div><br>
