@@ -38,35 +38,6 @@ show_candidates: false
 </div>
 
 <h2 class="title is-3 horizontal-line">
-Veterans Day Donation Drive-Thru
-</h2>
-<div class="is-size-4">November 11th, 2023 10AM to 1PM</div><br>
-
-<p class="is-size-5">
-Join the community-wide effort to collect items for <a href="https://www.picca.info/homeless#transitional">Ohio House</a>, a shelter for veterans in Pickaway County.
-<br><br>
-What is needed:
-</p>
-* Twin size bedding (sheets and blankets)
-* Towels
-* Peanut butter, jelly
-* Canned tuna, Vienna Sausages, Spam
-* Canned soup, chili
-* Macaroni and cheese, canned ravioli, or pasta
-* Canned vegetables
-* Individually packaged snacks (cookies or chips)
-* Individually packaged applesauce, fruit cups
-* Coffee, tea, powdered drink mixes
-* Single serve oatmeal and cereal
-* Dove or Old Spice body wash
-* Cleaning supplies, laundry detergent
-* Donations by check made out to PICCA. Please write "Ohio House" in the memo section.
-
-Where: <a href="https://maps.app.goo.gl/KfiYAmufi5a8fAXHA">Circleville Prebyterian Church, 134 E. Mount St. Circleville, OH 43113</a><br>
-<a href="/img/VeteransFlyer.jpg">Event Flyer</a><br>
-<a href="/assets/OhioHouseFlyer.pdf">Ohio House Flyer</a>
-
-<h2 class="title is-3 horizontal-line">
 Haven House Holiday
 </h2>
 <div class="is-size-4">Thursday, December 7th, 2023 5:30PM to 8:00PM</div><br>
