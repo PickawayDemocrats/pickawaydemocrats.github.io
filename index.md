@@ -24,17 +24,15 @@ show_candidates: false
 ## We are the Pickaway County Democratic party.
 ### Our mission is to work together to elect democracy-supporting, civic-minded individuals to local, state, and national offices.
 <div class="buttons are-large are-responsive is-centered">
-  {% if site.contribute %}
-  <a class="button is-link" href="{{ site.contribute}}">
-    <span>Contribute </span>
-    <span class="icon">
-      <i class="fa fa-hand-holding-usd"></i>
-    </span>
-  </a>
-  {% endif %}
   <a class="button is-link" href="https://docs.google.com/forms/d/e/1FAIpQLSfQ10VB0RU24C72BI8LO9YG2gKFu1Bos6x86qeeTO_0jYmFvw/viewform?usp=sf_link">
   <span>Get Involved</span>
   </a>
+  {% if site.contribute %}
+  <a class="button is-link" href="{{ site.contribute}}">
+    <span>Contribute </span>
+  </a>
+  {% endif %}
+
 </div>
 
 <h2 class="title is-3 horizontal-line">
