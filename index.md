@@ -34,6 +34,15 @@ show_candidates: false
   {% endif %}
 
 </div>
+<h2 class="title is-3 horizontal-line"></h2>
+<div>
+<p>Upon review of the available information regarding comments made and documented at an open public meeting of the Board of Trustees for Scioto Township, Pickaway County, Ohio, the Pickaway County Democratic Party strongly condemns the language used by Trustee Fannin.</p>
+
+<p>The Pickaway County Democratic Party reaffirms our opposition to racism in any of its guises and forms. It is our expectation and hope that proper actions will be immediately taken within the framework of the Scioto Township Board of Trustees to address the issue of clearly inappropriate language and that a prompt resignation will result.</p>
+
+<p>However, if there is not an appropriate response/resolution, there will be additional comments and/or action by the Pickaway County Democratic Party. Such a comment is not only offensive, insulting and disrespectful but disqualifying to hold public office.</p>
+<a href="https://www.10tv.com/mobile/article/news/local/community-board-members-call-resignation-of-pickaway-county-trustee-who-used-racial-slur/530-eb4dc4d9-73e8-459f-a09e-def46bea81ea">10TV Article</a>
+</div>
 
 <h2 class="title is-3 horizontal-line">
 Haven House Holiday
