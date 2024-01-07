@@ -1,6 +1,6 @@
 chair: Carolyn Loxley
 vc: Paul Hastings
-secretary: Debbi McCoy
+secretary: 
 treasurer: Amber Mayle
 atlarge:
     - name: Bob Bensonhaver
@@ -34,7 +34,6 @@ central:
     - precinct: Circleville 4A
     - precinct: Circleville 4B
     - precinct: Circleville North
-      name: Debbi McCoy
     - precinct: Circleville Northwest
     - precinct: Commercial Point East
     - precinct: Commercial Point West
