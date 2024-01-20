@@ -34,8 +34,22 @@ show_candidates: false
   {% endif %}
 
 </div>
-<h2 class="title is-3 horizontal-line"></h2>
+<h2 class="title is-3 horizontal-line">Achievements in 2023</h2>
+The Pickaway County Democratic Party is pleased to share the following report of achievements with the people of Pickaway County. 
 
+ * Fielded 3 local candidates for office
+ * Awarded 4-$300 Engage for the Future Scholarships to deserving senior-year students in the county
+ * Collected signatures to get Reproductive Rights on the ballot
+ * Enter the Contest Every Race Grant Program
+ * Won the August special election on Repro Rights and against suppression of democracy
+ * Held a young Dems event
+ * Hosted a successful Pumpkin Show booth
+ * Entered a float for the Pickaway County Democratic Party in the Friday parade
+ * Partnered with the Second Baptist Church to hold a Race-Class Narrative training that was a big success
+ * Partnered with the Presbyterian Church and PICCA and Ohio House Shelter to hold a Veterans Day Donation Drive that generated massive amounts of needed/requested items and $2,500+ in financial donations
+ * Partnered with Haven House for the second annual Haven House Holiday celebration generating donations for residents of a huge amount of needed materials and $2,000+ in cash and gift card donations
+
+We are eagerly looking forward to 2024 being an even more successful year for the Pickaway County Democratic Party and hope you will join us as we move into this critically important campaign year. Thank you for your support!  In solidarity!
 
 
 
