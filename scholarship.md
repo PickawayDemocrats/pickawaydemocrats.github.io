@@ -179,6 +179,8 @@ If you would like to make a financial contribution to support the scholarship fu
   <a href="https://secure.actblue.com/donate/pickawayengage">Donate</a>
 </div>
 
+The Pickaway County Democratic Party would like to thank our generous scholarship donors. Their endowments have funded the 2024 Engage for the Future scholarship fund in honor of the late Karen Bensonhaver. Karen dedicated her life to helping students, and we can think of no better way to honor her memory.
+
 <figure class="image is-3by1">
 	<img src="/img/engagefooter.png">
 </figure>
