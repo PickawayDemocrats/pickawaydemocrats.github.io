@@ -21,7 +21,7 @@ show_candidates: false
 <a href="https://forms.gle/SRGzVoBFZtE4EPDJ9">Apply Here</a>
 </div>
 
-<span class="title is-3">The application process will begin February 15th 2024 and end April 15th 2024.</span>
+<span class="title is-3">The application process begins February 15th 2024 and ends April 15th 2024.</span>
 <div class="box" style="background-color:#0044c9; color: white;">
 
 <div class="has-text-centered is-size-3-mobile is-size-2-tablet is-size-1-desktop has-text-weight-bold">Scholarship Application Window</div>
@@ -75,7 +75,7 @@ var x = setInterval(function() {
       	// Find the distance between now and the count down date
   		var timer = windowclose - now;
 // Time calculations for days, hours, minutes and seconds
-		document.getElementById("cdays").innerHTML = "0";
+		document.getElementById("cdays").innerHTML = Math.floor(timer / (1000 * 60 * 60 * 24));
   		document.getElementById("chours").innerHTML = Math.floor((timer % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
   		document.getElementById("cminutes").innerHTML = Math.floor((timer % (1000 * 60 * 60)) / (1000 * 60));
   		// Output the result in an element with id="countdown"

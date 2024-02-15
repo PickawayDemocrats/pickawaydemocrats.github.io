@@ -9,7 +9,7 @@ permalink: pretty
 remote_theme: chrisrhymes/bulma-clean-theme
 fixed_navbar: top
 footer_menu: footer_menu
-favicon: /favicon-32x32.png
+favicon: /img/favicon-32x32.png
 #hide_share_buttons: true
 #theme_color: '#0080FF'
 #fixed_navbar: top

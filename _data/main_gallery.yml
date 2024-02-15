@@ -1,0 +1,41 @@
+- title: Photo Gallery
+  images:
+    - link: /img/gallery/IMG_001_thumb.jpg
+      large_link: /img/gallery/IMG_001_large.jpg
+
+    - link: /img/gallery/IMG_002_thumb.jpg
+      large_link: /img/gallery/IMG_002_large.jpg
+
+    - link: /img/gallery/IMG_003_thumb.jpg
+      large_link: /img/gallery/IMG_003_large.jpg
+
+    - link: /img/gallery/IMG_004_thumb.jpg
+      large_link: /img/gallery/IMG_004_large.jpg
+
+    - link: /img/gallery/IMG_005_thumb.jpg
+      large_link: /img/gallery/IMG_005_large.jpg
+
+    - link: /img/gallery/IMG_006_thumb.jpg
+      large_link: /img/gallery/IMG_006_large.jpg
+
+    - link: /img/gallery/IMG_007_thumb.jpg
+      large_link: /img/gallery/IMG_007_large.jpg
+
+    - link: /img/gallery/IMG_008_thumb.jpg
+      large_link: /img/gallery/IMG_008_large.jpg
+
+    - link: /img/gallery/IMG_009_thumb.jpg
+      large_link: /img/gallery/IMG_009_large.jpg
+
+    - link: /img/gallery/IMG_010_thumb.jpg
+      large_link: /img/gallery/IMG_010_large.jpg
+
+    - link: /img/gallery/IMG_011_thumb.jpg
+      large_link: /img/gallery/IMG_011_large.jpg
+
+    - link: /img/gallery/IMG_012_thumb.jpg
+      large_link: /img/gallery/IMG_012_large.jpg
+
+    - link: /img/gallery/IMG_013_thumb.jpg
+      large_link: /img/gallery/IMG_013_large.jpg
+  

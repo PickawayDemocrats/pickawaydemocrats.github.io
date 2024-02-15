@@ -5,6 +5,7 @@ hide_hero: true
 hero_height: 0
 subtitle: Events for the Pickaway County Democratic Party
 layout: page
+sitemap: false
 show_sidebar: false
 ---
 <h2>Events Calendar</h2>
