@@ -10,24 +10,8 @@
 </div>
 <div class="has-text-centered">
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSfQ10VB0RU24C72BI8LO9YG2gKFu1Bos6x86qeeTO_0jYmFvw/viewform?usp=sf_link"><button class="button is-large is-rounded is-centered is-outlined is-primary"><strong>Get Involved</strong></button></a>
-</div>
-{% if page.show_candidates %}
-<div class="box">
-<p class="title is-4" style="text-align:center"><a href="{% link candidates.md %}">Candidates</p></a>
-    {% for level in site.data.candidates %} 
-      {% for item in level %}
-
-          <div>
-            <p style="font-size:16px;font-family:verdana;text-align:center""><b>{{ item.name }}</b></p>
-            <p style="font-size:12px;text-align:center">{{ item.office }}</p><br>
-          </div>
-
-      {% endfor %}
-    {% endfor %}
-</div>
-{% endif %}
-       
-<br>        
+</div>       
+     
       
 
        
