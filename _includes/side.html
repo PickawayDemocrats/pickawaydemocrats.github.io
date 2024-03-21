@@ -4,9 +4,16 @@
     }
 </style>
 <div class="box">
-<p class="title is-3" style="text-align:center">Next Meeting</p>
+{% if site.data.nextmeeting.url %}
+<p class="title is-3" style="text-align:center"><a href="{{ site.data.nextmeeting.url }}">{{ site.data.nextmeeting.title }}</a></p>
+{% else %}
+<p class="title is-3" style="text-align:center">{{ site.data.nextmeeting.title }}</p>
+{% endif %}
 <p style="font-size:22px;text-align:center">{{ site.data.nextmeeting.month }} {{ site.data.nextmeeting.day }}{% if site.data.nextmeeting.time != nil %} at {{ site.data.nextmeeting.time }}{% endif %}<br></p>
-<p style="font-size:12px;text-align:center">{{ site.data.nextmeeting.location }}<br>{{ site.data.nextmeeting.address }}</p>
+<p style="font-size:12px;text-align:center">{{ site.data.nextmeeting.location }}<br>{{ site.data.nextmeeting.address }}
+{% if site.data.nextmeeting.room %}
+<br>{{ site.data.nextmeeting.room }} meeting room
+{% endif %}</p>
 </div>
 <div class="has-text-centered">
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSfQ10VB0RU24C72BI8LO9YG2gKFu1Bos6x86qeeTO_0jYmFvw/viewform?usp=sf_link"><button class="button is-large is-rounded is-centered is-outlined is-primary"><strong>Get Involved</strong></button></a>
