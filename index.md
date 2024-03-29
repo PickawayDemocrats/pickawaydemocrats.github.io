@@ -37,6 +37,11 @@ show_latest_posts: false
 </div>
   </div>
 </div>
+<div class="has-text-centered">
+<figure class="image is-inline-block">
+<img src="/img/OrgMeetingNotice.png">
+</figure>
+</div>
 <h2 class="title is-3 horizontal-line">April 8th Solar Eclipse Watch Party</h2>
 Free eclipse glasses, food, fun and information about the eclipse.  Bring a chair and join us for this fascination show of nature!  Food served at 2:00, peak eclipse at 3:15. Fun and good fellowship all afternoon!<br>
 <a href="https://maps.app.goo.gl/cRrxnPCGyKic3Zhe7">Starkey Pavilion at Mary Virginia Crites Hannan Park in Circleville</a><br>
