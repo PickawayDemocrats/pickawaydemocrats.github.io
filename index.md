@@ -42,10 +42,6 @@ show_latest_posts: false
 <img src="/img/OrgMeetingNotice.png">
 </figure>
 </div>
-<h2 class="title is-3 horizontal-line">April 8th Solar Eclipse Watch Party</h2>
-Free eclipse glasses, food, fun and information about the eclipse.  Bring a chair and join us for this fascination show of nature!  Food served at 2:00, peak eclipse at 3:15. Fun and good fellowship all afternoon!<br>
-<a href="https://maps.app.goo.gl/cRrxnPCGyKic3Zhe7">Starkey Pavilion at Mary Virginia Crites Hannan Park in Circleville</a><br>
-<a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=Y2dvbTRlOW83NHE2NGI5Z2NjcTY0YjlrNzBzbWNiYjJjOHBqZ2I5bGNnc2plbzlsY2hoamNjMzM2cyBma3Nwdjk3MHNxMzQxZHYxMXFvNjloamhiNEBn&amp;tmsrc=fkspv970sq341dv11qo69hjhb4%40group.calendar.google.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>
 
 <h2 class="title is-3 horizontal-line">Achievements in 2023</h2>
 The Pickaway County Democratic Party is pleased to share the following report of achievements with the people of Pickaway County. 
