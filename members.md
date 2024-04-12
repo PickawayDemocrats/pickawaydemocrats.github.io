@@ -52,3 +52,5 @@ Treasurer - {{ site.data.members.treasurer }}<br>
   {% endif %}
 {% endfor %}
 </div>
+
+Last Updated: {{site.data.members.updated}}

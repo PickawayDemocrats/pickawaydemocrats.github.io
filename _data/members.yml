@@ -1,11 +1,12 @@
+updated: April 11th 2024
 chair: Carolyn Loxley
-vc: Paul Hastings
-secretary: 
+vc: Lucas Palmer
+secretary: Jesseca LoConti
 treasurer: Amber Mayle
 atlarge:
-    - name: Bob Bensonhaver
-    - name: Jim McCoy
     - name: Loretta Palmer
+    - name: Mike Frost
+    - name: Sharon Crosby
 central:    
     - precinct: Perry / New Holland
     - precinct: Scioto North
@@ -22,18 +23,18 @@ central:
     - precinct: Circleville 1A
       name: Jesseca LoConti
     - precinct: Circleville 1B
+      name: Bob Bensonhaver
     - precinct: Circleville 1C
-      name: Michael Frost
     - precinct: Circleville 2A
     - precinct: Circleville 2B
       name: Dia Hildenbrand
     - precinct: Circleville 3A
       name: Anne Canan
     - precinct: Circleville 3B
-      name: Cameron Jones
     - precinct: Circleville 4A
     - precinct: Circleville 4B
     - precinct: Circleville North
+      name: Brenda Simpson
     - precinct: Circleville Northwest
     - precinct: Commercial Point East
     - precinct: Commercial Point West
@@ -45,16 +46,16 @@ central:
     - precinct: Washington Central
     - precinct: Washington North
     - precinct: Washington South
-      name: Marsha Few
     - precinct: Madison Township
     - precinct: Monroe Township
+      name: Mike Emmons
     - precinct: Darbyville / Muhlenberg
       name: Carolyn Loxley
     - precinct: Scioto Northeast
       name: Amber Mayle
     - precinct: Southern Point
     - precinct: Saltcreek North / Tarlton
-      name: Sharon Crosby
+      name: Lucas Palmer
     - precinct: Saltcreek South
     - precinct: South Bloomfield North
       name: Cathy Sapp
