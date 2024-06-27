@@ -37,9 +37,23 @@ show_latest_posts: false
 </div>
   </div>
 </div>
+
+<div class="has-text-centered">
+<figure class="image is-inline-block">
+<img src="/img/gopen.jpg">
+</figure>
+</div>
+<br>
 <div class="has-text-centered">
 <figure class="image is-inline-block">
 <img src="/img/SherrodBrownReception.jpg">
+</figure>
+<a href="https://secure.actblue.com/donate/oh071224fairfieldgra">secure.actblue.com/donate/oh071224fairfieldgra</a>
+</div>
+<br>
+<div class="has-text-centered">
+<figure class="image is-inline-block">
+<img src="/img/ics.jpg">
 </figure>
 </div>
 <h2 class="title is-3 horizontal-line">Achievements in 2023</h2>
