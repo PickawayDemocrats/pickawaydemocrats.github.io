@@ -24,7 +24,7 @@ show_latest_posts: false
   </div>
   <div class="column">
 <h2>We are the Pickaway County Democratic party.</h2>
-	<p style="font-size:18px;color:black;font-family:verdana">Our mission is to work together to elect democracy-supporting, civic-minded individuals to local, state, and national offices.</p>
+	<p class="is-size-5">Our mission is to work together to elect democracy-supporting, civic-minded individuals to local, state, and national offices.</p>
 	<div class="buttons are-large are-responsive is-centered">
   <a class="button is-link" href="https://docs.google.com/forms/d/e/1FAIpQLSfQ10VB0RU24C72BI8LO9YG2gKFu1Bos6x86qeeTO_0jYmFvw/viewform?usp=sf_link">
   <span>Get Involved</span>

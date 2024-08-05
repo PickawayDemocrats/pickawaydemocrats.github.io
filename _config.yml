@@ -6,7 +6,7 @@ description: >
   Official website for the Pickaway County Democratic Party - Ohio
 url: "https://pickawaydemocrats.org"
 permalink: pretty
-remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
+theme: bulma-clean-theme
 fixed_navbar: top
 footer_menu: footer_menu
 favicon: /img/favicon-32x32.png
@@ -48,7 +48,7 @@ sass:
   style: compressed
   source_dir: _sass
 
-google_analytics: G-9TDXMQHBN3
+google_analytics: G-VGL7239RTP
 
 defaults:
   -

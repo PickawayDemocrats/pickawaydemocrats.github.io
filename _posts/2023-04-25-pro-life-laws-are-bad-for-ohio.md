@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 author: Dr. Brad Cotton
 title: So-called "Pro-Life" laws hurt real women and are bad for Ohio
 subtitle: Join us to stand for equality for all
