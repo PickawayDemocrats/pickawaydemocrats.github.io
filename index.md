@@ -37,13 +37,63 @@ show_latest_posts: false
 </div>
   </div>
 </div>
-
+<h2 class="title is-3 horizontal-line">
+General Election: November 7th
+</h2>
+<p class="is-size-5">
+October 7: Voter Registration Deadline<br>
+October 8: Early Voting Begins<br>
+October 29: Absentee Ballot Request Deadline<br>
+November 4: Last Day to Mail Your Ballot<br>
+November 5: Election Day<br>
+</p>
+<h3>Endorsed Candidates</h3>
+<div>
+{% for level in site.data.candidates %} 
+     {% for item in level %}
+      	<p class="is-size-5"><b>{{ item.name }}</b> - {{ item.office }}
+	{% if item.web %}
+	   <a href="{{ item.web }}" title="Web">
+		<i class="fa fa-solid fa-globe"></i>
+	      <span class="sr-only">Web</span>
+	   </a>
+	{% endif %}
+	{% if item.facebook %}
+	   <a style="padding-left:10px;" href="https://www.facebook.com/{{ item.facebook }}" title="Facebook">
+	     	<i class="fab fa-facebook"></i>
+	      <span class="sr-only">Facebook</span>
+	   </a>
+	{% endif %}
+	{% if item.twitter %}
+	    <a style="padding-left:10px;" href="https://www.twitter.com/{{ item.twitter }}" title="Twitter">
+	     	<i class="fab fa-twitter"></i>
+	      <span class="sr-only">Twitter</span>
+	   </a>
+	{% endif %}
+	{% if item.instagram %}
+	    <a style="padding-left:10px;" href="https://www.instagram.com/{{ item.instagram }}" title="Instagram">
+	     	<i class="fab fa-instagram"></i>
+	      <span class="sr-only">Instagram</span>
+	   </a>
+	{% endif %}
+	{% if item.youtube %}
+	    <a style="padding-left:10px;" href="https://www.youtube.com/channel/{{ item.youtube }}" title="YouTube">
+	     	<i class="fab fa-youtube"></i>
+	      <span class="sr-only">YouTube</span>
+	   </a>
+	{% endif %}
+	</p>
+    {% endfor %}
+{% endfor %}
+</div>
+<h2 class="title is-3 horizontal-line"></h2>
 <br>
 <div class="has-text-centered">
 <figure class="image is-inline-block">
 <img src="/img/ics.jpg">
 </figure>
 </div>
+
 <h2 class="title is-3 horizontal-line">Achievements in 2023</h2>
 The Pickaway County Democratic Party is pleased to share the following report of achievements with the people of Pickaway County. 
 

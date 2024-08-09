@@ -1,4 +1,18 @@
 -
+  - name: Kamala Harris & Tim Walz
+    office: U.S. President & Vice President
+    web: https://kamalaharris.com/
+    twitter: https://x.com/KamalaHarris
+    facebook: https://www.facebook.com/KamalaHarris/
+    instagram: https://www.instagram.com/kamalaharris/?hl=en        
+  - name: Sherrod Brown
+    office: U.S. Senate  
+    web: https://www.sherrodbrown.com/
+    facebook: https://www.facebook.com/sherrod
+    instagram: https://www.instagram.com/sherrod/
+    twitter: https://twitter.com/sherrodbrown
+    youtube: https://www.youtube.com/channel/UCt_l7Nge_872rTm5Jvbo6Mw
+-
   - name: Samantha Meadows
     office: U.S. Representative OH-2
     web: https://www.votemeadows.com/
@@ -25,6 +39,14 @@
     office: State Representative (12th District)
     web: https://bradcottonfordistrict12.com
     facebook: BradCottonForOhioDistrict12
+-
+  - name: David Donofrio
+    office: State Board of Education (6th District)
+    web: https://www.daviddonofrio.com
+    facebook: http://www.facebook.com/davidforkids
+    twitter: http://www.twitter.com/davidforkids
+    instagram: http://instagram.com/davidforkids
+    
 
     
     
