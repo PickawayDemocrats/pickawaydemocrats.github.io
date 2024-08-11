@@ -38,7 +38,7 @@ show_latest_posts: false
   </div>
 </div>
 <h2 class="title is-3 horizontal-line">
-General Election: November 7th
+General Election: November 5th
 </h2>
 <p class="is-size-5">
 October 7: Voter Registration Deadline<br>
