@@ -86,8 +86,10 @@ November 5: Election Day<br>
     {% endfor %}
 {% endfor %}
 </div>
-<h2 class="title is-3 horizontal-line"></h2>
 <br>
+<p class="is-size-4">
+<a href="/SlateCards.pdf">Slate Card PDF</a>
+</p>
 
 <h2 class="title is-3 horizontal-line">Achievements in 2023</h2>
 The Pickaway County Democratic Party is pleased to share the following report of achievements with the people of Pickaway County. 
