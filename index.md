@@ -90,6 +90,15 @@ November 5: Election Day<br>
 <p class="is-size-4">
 <a href="/SlateCards.pdf">Slate Card PDF</a>
 </p>
+<h2 class="title is-3 horizontal-line"></h2>
+<div style="position: relative; width: 100%; height: 0; padding-top: 129.4118%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https://www.canva.com/design/DAGUDAhxARk/qyEsOegsiMpRbFG71ci-rQ/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<h3>Needed Items: (coming soon)</h3>
 
 <h2 class="title is-3 horizontal-line">Achievements in 2023</h2>
 The Pickaway County Democratic Party is pleased to share the following report of achievements with the people of Pickaway County. 
