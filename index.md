@@ -98,7 +98,21 @@ November 5: Election Day<br>
     src="https://www.canva.com/design/DAGUDAhxARk/qyEsOegsiMpRbFG71ci-rQ/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-<h3>Needed Items: (coming soon)</h3>
+<h3>Needed Items:</h3>
+ * Twin size bedding (sheets and blankets)
+ * Towels
+ * Peanut butter, jelly
+ * Canned tuna, Vienna sausages, Spam
+ * Canned soup, chili
+ * Macaroni and cheese, canned ravioli, or pasta
+ * Canned vegetables
+ * Individually packed snacks (cookies or chips)
+ * Individually packaged applesauce, fruit cups
+ * Coffee, tea, powdered drink mixes
+ * Single serve oatmeal and cereal
+ * Dove or Old Spice body wash
+ * Cleaning supplies, laundry detergent
+ * Donation by check made out to PICCA. Please write "Ohio House" in the memo section.
 
 <h2 class="title is-3 horizontal-line">Achievements in 2023</h2>
 The Pickaway County Democratic Party is pleased to share the following report of achievements with the people of Pickaway County. 
