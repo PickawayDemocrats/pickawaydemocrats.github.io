@@ -1,4 +1,33 @@
-- title: Photo Gallery
+- title: 2024 Haven House Holiday
+  images:
+    - link: /img/gallery/IMG_014_thumb.jpg
+      large_link: /img/gallery/IMG_014_large.jpg
+      
+    - link: /img/gallery/IMG_015_thumb.jpg
+      large_link: /img/gallery/IMG_015_large.jpg
+      
+    - link: /img/gallery/IMG_016_thumb.jpg
+      large_link: /img/gallery/IMG_016_large.jpg
+      
+    - link: /img/gallery/IMG_017_thumb.jpg
+      large_link: /img/gallery/IMG_017_large.jpg
+      
+    - link: /img/gallery/IMG_018_thumb.jpg
+      large_link: /img/gallery/IMG_018_large.jpg
+      
+    - link: /img/gallery/IMG_019_thumb.jpg
+      large_link: /img/gallery/IMG_019_large.jpg
+      
+    - link: /img/gallery/IMG_020_thumb.jpg
+      large_link: /img/gallery/IMG_020_large.jpg
+      
+    - link: /img/gallery/IMG_021_thumb.jpg
+      large_link: /img/gallery/IMG_021_large.jpg
+      
+    - link: /img/gallery/IMG_022_thumb.jpg
+      large_link: /img/gallery/IMG_022_large.jpg
+  
+- title: Past Events
   images:
     - link: /img/gallery/IMG_001_thumb.jpg
       large_link: /img/gallery/IMG_001_large.jpg
@@ -38,4 +67,4 @@
 
     - link: /img/gallery/IMG_013_thumb.jpg
       large_link: /img/gallery/IMG_013_large.jpg
-  
+      
