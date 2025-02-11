@@ -166,8 +166,6 @@ or excerpts from the project in our social media and/or promotional
 materials. If used in such a manner, credit and acknowledgement will be
 given to the author/creator.
 
-The Pickaway County Democratic Party would like to thank our generous scholarship donors. Their endowments have funded the 2025 Engage for the Future scholarship fund in honor of the late Karen Bensonhaver. Karen dedicated her life to helping students, and we can think of no better way to honor her memory.
-
 <figure class="image is-3by1">
 	<img src="/img/engagefooter.png">
 </figure>
