@@ -36,12 +36,7 @@ show_latest_posts: false
   {% endif %}
 </div>
 <br>
-<div class="has-text-centered">
-<figure class="image is-3by4">
-  <img src="/img/PresDayMarch.png">
-</figure>
-Download flyer as <a href="/PresDayMarch.pdf">PDF</a>
-</div>
+
 
   </div>
 </div>
