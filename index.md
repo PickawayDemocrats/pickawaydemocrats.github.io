@@ -36,7 +36,11 @@ show_latest_posts: false
   {% endif %}
 </div>
 <br>
-
+<div class="has-text-centered">
+<figure class="image is-3by4">
+  <a href="https://fiftyfifty.one"><img src="/img/IMG_4647.png"></a>
+</figure>
+</div>
 
   </div>
 </div>
