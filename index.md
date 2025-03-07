@@ -36,13 +36,21 @@ show_latest_posts: false
   {% endif %}
 </div>
 <br>
-<div class="has-text-centered">
-<figure class="image is-3by4">
-  <a href="https://fiftyfifty.one"><img src="/img/IMG_4647.png"></a>
-</figure>
-</div>
+<h3 class="horizontal-line">Check the <a href="/events">Events</a> Calendar!</h3>
+You can also add our events to your own calendar for reminders, just click Add to Google Calendar.
 
-  </div>
+<h2 class="title is-3 horizontal-line">
+Get Involved!
+</h2>
+<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/embed/v2.js"></script>
+<script>
+  hbspt.forms.create({
+    portalId: "47861512",
+    formId: "955cd7f0-3fe5-4aab-9fa7-7c136b0fc024"
+  });
+</script>
+
+</div>
 </div>
 
 

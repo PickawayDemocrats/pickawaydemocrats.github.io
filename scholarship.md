@@ -75,7 +75,7 @@ var x = setInterval(function() {
       	// Find the distance between now and the count down date
   		var timer = windowclose - now;
 // Time calculations for days, hours, minutes and seconds
-		document.getElementById("cdays").innerHTML = "0";
+		document.getElementById("cdays").innerHTML = Math.floor(timer / (1000 * 60 * 60 * 24));
   		document.getElementById("chours").innerHTML = Math.floor((timer % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
   		document.getElementById("cminutes").innerHTML = Math.floor((timer % (1000 * 60 * 60)) / (1000 * 60));
   		// Output the result in an element with id="countdown"
