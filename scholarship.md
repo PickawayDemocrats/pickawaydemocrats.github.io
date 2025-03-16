@@ -21,7 +21,7 @@ show_candidates: false
 <a href="https://forms.gle/yYhTRimZq9pRG4M7A">Apply Here</a>
 </div>
 
-<span class="title is-3">The application process will begin February 15th 2025 and end April 15th 2025.</span>
+<span class="title is-3">The application process begins February 15th 2025 and ends April 15th 2025.</span>
 <div class="box" style="background-color:#0044c9; color: white;">
 
 <div class="has-text-centered is-size-3-mobile is-size-2-tablet is-size-1-desktop has-text-weight-bold">Scholarship Application Window</div>
