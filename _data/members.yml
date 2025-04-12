@@ -9,6 +9,7 @@ atlarge:
 central:    
     - precinct: Perry / New Holland
     - precinct: Scioto North
+      name: Jessica Frymyer
     - precinct: Scioto South
       name: Stephanie Holsinger
     - precinct: Circleville South
