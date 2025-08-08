@@ -17,8 +17,6 @@
     - name: Am I Registered?
       link: https://lookup.boe.ohio.gov/vtrapp/pickaway/vtrlookup.aspx#
     - name: Pickaway Board of Elections
-      link: https://www.boe.ohio.gov/pickaway/  
-- name: Get Involved
-  link: https://share.hsforms.com/1lVzX8D_lSqufp3wTaw_AJAshu6g          
+      link: https://www.boe.ohio.gov/pickaway/      
 - name: Events
   link: /events
