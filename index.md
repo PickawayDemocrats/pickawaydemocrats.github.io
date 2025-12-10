@@ -37,8 +37,6 @@ show_latest_posts: false
 <br>
 
 <h2 class="title is-3 horizontal-line">Rural Caucus Listening Tour</h2>
-<div class="has-text-centered">
-
 <figure class="image is-3by4">
 
 
@@ -46,8 +44,22 @@ show_latest_posts: false
 
 
 </figure>
+<h2 class="title is-3 horizontal-line">Presidents' Day Meet the Candidates</h2>
+<figure class="image is-5by4">
 
-</div><br>
+
+  <img src="/img/PresidentsDay.jpeg">
+
+
+</figure>
+<figure class="image is-5by4">
+
+
+  <img src="/img/PresidentsDayText.jpeg">
+
+
+</figure>
+<br>
 <h3 class="horizontal-line">Check the <a href="/events">Events</a> Calendar!</h3>
 You can also add our events to your own calendar for reminders, just click Add to Google Calendar.
 
