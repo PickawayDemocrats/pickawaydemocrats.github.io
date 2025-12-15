@@ -60,6 +60,7 @@ show_latest_posts: false
 
 </figure>
 <br>
+Get your tickets at <a href="https://secure.actblue.com/donate/powerinpartnership">https://secure.actblue.com/donate/powerinpartnership</a><br>
 <h3 class="horizontal-line">Check the <a href="/events">Events</a> Calendar!</h3>
 You can also add our events to your own calendar for reminders, just click Add to Google Calendar.
 
