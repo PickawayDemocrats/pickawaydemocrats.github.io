@@ -36,14 +36,6 @@ show_latest_posts: false
 </div>
 <br>
 
-<h2 class="title is-3 horizontal-line">Rural Caucus Listening Tour</h2>
-<figure class="image is-3by4">
-
-
-  <img src="/img/BCR-all event poster.jpg">
-
-
-</figure>
 <h2 class="title is-3 horizontal-line">Presidents' Day Meet the Candidates</h2>
 <figure class="image is-5by4">
 
