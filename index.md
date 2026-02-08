@@ -37,17 +37,17 @@ show_latest_posts: false
 <br>
 
 <h2 class="title is-3 horizontal-line">Presidents' Day Meet the Candidates</h2>
-<figure class="image is-5by4">
+<figure class="image">
 
 
-  <img src="/img/PresidentsDay.jpeg">
+  <img src="/img/CandNight1.jpg">
 
 
 </figure>
-<figure class="image is-5by4">
+<figure class="image">
 
 
-  <img src="/img/PresidentsDayText.jpeg">
+  <img src="/img/CandNight2.jpg">
 
 
 </figure>
