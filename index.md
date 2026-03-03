@@ -36,23 +36,6 @@ show_latest_posts: false
 </div>
 <br>
 
-<h2 class="title is-3 horizontal-line">Presidents' Day Meet the Candidates</h2>
-<figure class="image">
-
-
-  <img src="/img/CandNight1.jpg">
-
-
-</figure>
-<figure class="image">
-
-
-  <img src="/img/CandNight2.jpg">
-
-
-</figure>
-<br>
-Get your tickets at <a href="https://secure.actblue.com/donate/powerinpartnership">https://secure.actblue.com/donate/powerinpartnership</a><br>
 <h3 class="horizontal-line">Check the <a href="/events">Events</a> Calendar!</h3>
 You can also add our events to your own calendar for reminders, just click Add to Google Calendar.
 
