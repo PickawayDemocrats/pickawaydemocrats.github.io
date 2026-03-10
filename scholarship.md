@@ -170,8 +170,8 @@ given to the author/creator.
 	<img src="/img/engagefooter.png">
 </figure>
 
-Contact: Carolyn Loxley
-<br>[Cloxley82@gmail.com](mailto:cloxley82@gmail.com)
-<br>[740-833-5144](tel:7408335144)
+Contact: Brad Cotton
+<br>[roundtownquaker@gmail.com](mailto:roundtownquaker@gmail.com)
+
 
 
