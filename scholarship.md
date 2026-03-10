@@ -18,10 +18,10 @@ show_candidates: false
 	<img src="/img/engage.png">
 </figure>
 <div class="title is-2 has-text-centered">
-<a href="https://forms.gle/yYhTRimZq9pRG4M7A">Apply Here</a>
+<a href="https://forms.gle/efMUYsbTgVpvydyT8">Apply Here</a>
 </div>
 
-<span class="title is-3">The application process begins February 15th 2025 and ends April 15th 2025.</span>
+<span class="title is-3">The application process begins February 15th 2026 and ends April 15th 2026.</span>
 <div class="box" style="background-color:#0044c9; color: white;">
 
 <div class="has-text-centered is-size-3-mobile is-size-2-tablet is-size-1-desktop has-text-weight-bold">Scholarship Application Window</div>
@@ -48,8 +48,8 @@ show_candidates: false
  </div>
 <script>
 // Set the date we're counting down to
-var windowopen = new Date("2025-02-15T05:00:00Z").getTime();
-var windowclose = new Date("2025-04-16T04:00:00Z").getTime();
+var windowopen = new Date("2026-02-15T05:00:00Z").getTime();
+var windowclose = new Date("2026-04-16T04:00:00Z").getTime();
 
 // Update the count down every 1 second
 var x = setInterval(function() {
@@ -121,7 +121,7 @@ skill, special interest, or learning experience within six months of
 graduation.
 
 <span class="title is-4">How to Enter</span>
-1. Complete an [application](https://forms.gle/yYhTRimZq9pRG4M7A). You will need a Google account to use the form.
+1. Complete an [application](https://forms.gle/efMUYsbTgVpvydyT8). You will need a Google account to use the form.
 2. Create a project for submission that conveys your understanding of
 community engagement, support of democracy, and/or civic
 responsibility.
@@ -130,7 +130,7 @@ photography, video), music, poetry, live performance (with a
 written script), or an essay.
 * Projects created using AI are not welcome and may be disqualified.
 3. Submit your project. If it can be submitted digitally you can upload it on the application form, otherwise submit
-a written or photo description with your [application](https://forms.gle/yYhTRimZq9pRG4M7A) no later than April 15. Please do ***NOT*** include your name or other personally identifiable information in files that you submit, only on the form.
+a written or photo description with your [application](https://forms.gle/efMUYsbTgVpvydyT8) no later than April 15. Please do ***NOT*** include your name or other personally identifiable information in files that you submit, only on the form.
 
 <span class="title is-4">Evaluation Criteria</span>
 1. Projects will be evaluated by a group of a minimum of 3 individuals from
