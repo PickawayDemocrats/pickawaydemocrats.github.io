@@ -35,7 +35,13 @@ show_latest_posts: false
   </div>
 </div>
 <br>
+<figure class="image">
 
+
+  <img src="/img/MillerSC.jpg">
+
+
+</figure>
 <h3 class="horizontal-line">May 5th Primary Election Democratic Candidates</h3>
 
 **Federal**  
