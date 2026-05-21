@@ -21,71 +21,9 @@ show_candidates: false
 <a href="https://forms.gle/efMUYsbTgVpvydyT8">Apply Here</a>
 </div>
 
-<span class="title is-3">The application process begins February 15th 2026 and ends ~~April 15th 2026~~ April 24th 2026.</span>
-<div class="box" style="background-color:#0044c9; color: white;">
+<span class="title is-3">The application process begins February 15th 2027 and ends April 15th 2027.</span>
 
-<div class="has-text-centered is-size-3-mobile is-size-2-tablet is-size-1-desktop has-text-weight-bold">Scholarship Application Window</div>
-<div id="countdown" align="center" class="is-size-4-touch is-size-3-desktop"></div>
- <div class="level is-mobile">
-  <div class="level-item has-text-centered">
-    <div>
-      <span class="cdtext" id="cdays">0</span>
-      <p class="cdsubtext">Days</p>
-    </div>
-  </div>
-  <div class="level-item has-text-centered">
-    <div>
-      <span class="cdtext" id="chours">0</span>
-      <p class="cdsubtext">Hours</p>
-    </div>
-  </div>
-  <div class="level-item has-text-centered">
-    <div>
-      <span class="cdtext" id="cminutes">0</span>
-      <p class="cdsubtext">Minutes</p>
-    </div>
-  </div>
- </div>
-<script>
-// Set the date we're counting down to
-var windowopen = new Date("2026-02-15T05:00:00Z").getTime();
-var windowclose = new Date("2026-04-25T04:00:00Z").getTime();
 
-// Update the count down every 1 second
-var x = setInterval(function() {
-
-  // Get today's date and time
-  var now = Date.now();
-        
-  // If the count down is over, write some text 
-  if ((windowclose - now) < 0) {
-    clearInterval(x);
-    document.getElementById("countdown").innerHTML = "Window closed";
-  } else {
-  	if ((windowopen - now) > 0) {
-    	// Find the distance between now and the count down date
-    	var timer = windowopen - now;
- 	 	// Time calculations for days, hours, minutes and seconds
-  		document.getElementById("cdays").innerHTML = Math.floor(timer / (1000 * 60 * 60 * 24));
-  		document.getElementById("chours").innerHTML = Math.floor((timer % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-  		document.getElementById("cminutes").innerHTML = Math.floor((timer % (1000 * 60 * 60)) / (1000 * 60));
-  		// Output the result in an element with id="countdown"
-  		document.getElementById("countdown").innerHTML = "Window opens in:<br>";
-    } else {
-      	// Find the distance between now and the count down date
-  		var timer = windowclose - now;
-// Time calculations for days, hours, minutes and seconds
-		document.getElementById("cdays").innerHTML = Math.floor(timer / (1000 * 60 * 60 * 24));
-  		document.getElementById("chours").innerHTML = Math.floor((timer % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-  		document.getElementById("cminutes").innerHTML = Math.floor((timer % (1000 * 60 * 60)) / (1000 * 60));
-  		// Output the result in an element with id="countdown"
-  		document.getElementById("countdown").innerHTML = "Window closes in:<br>";
-    }
-  }
-}, 1000);
-</script>
-</div>
-<p class="has-text-centered is-size-7">*Timer is only as accurate as your device time</p>
 Thank you for your interest in the Pickaway County Democratic
 Scholarship Club Program. Our scholarship program is intended to expand
 your ability to engage in and improve communities. The application will be
@@ -130,7 +68,7 @@ photography, video), music, poetry, live performance (with a
 written script), or an essay.
 * Projects created using AI are not welcome and may be disqualified.
 3. Submit your project. If it can be submitted digitally you can upload it on the application form, otherwise submit
-a written or photo description with your [application](https://forms.gle/efMUYsbTgVpvydyT8) no later than ~~April 15~~ April 24th. Please do ***NOT*** include your name or other personally identifiable information in files that you submit, only on the form.
+a written or photo description with your [application](https://forms.gle/efMUYsbTgVpvydyT8) no later than April 15 Please do ***NOT*** include your name or other personally identifiable information in files that you submit, only on the form.
 
 <span class="title is-4">Evaluation Criteria</span>
 1. Projects will be evaluated by a group of a minimum of 3 individuals from
@@ -169,9 +107,5 @@ given to the author/creator.
 <figure class="image is-3by1">
 	<img src="/img/engagefooter.png">
 </figure>
-
-Contact: Carolyn Loxley
-<br>[Cloxley82@gmail.com](mailto:cloxley82@gmail.com)
-<br>[740-833-5144](tel:7408335144)
 
 
