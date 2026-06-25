@@ -40,4 +40,8 @@ show_latest_posts: false
 <h3 class="horizontal-line">Check the <a href="/events">Events</a> Calendar!</h3>
 You can also add our events to your own calendar for reminders, just click Add to Google Calendar.
 
+<h3 class="horizontal-line">Door Knocking in Circleville</h3>
+Want to help elect new leaders for the county, state, and nation?!?! Come help us knock on doors of known Democrats in the Circleville area!
+Canvassing will be starting Saturday morning kicking off from our HQ at 212 South Court Street at about 10:00. We would love to have your help!
+
 
