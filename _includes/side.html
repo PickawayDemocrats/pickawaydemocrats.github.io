@@ -19,11 +19,26 @@
 </div><br>       
 
 {% include image-modal.html ratio="is-3by4" link="/img/PCDP_HQ_thumb.jpg" alt="Picture of our headquarters" large_link="/img/PCDP_HQ_large.jpg" %}
+{% if site.data.office_hours.regular_hours %}
+<p class="title is-size-2" style="text-align:center">Office Hours</p>
+<p style="text-align:center"><a href="https://maps.app.goo.gl/1ico4bFex3JEvaoHA">212 S Court St, Circleville, OH 43113</a></p>
+<table class="table mx-auto">
+<tbody>
+{% if site.data.office_hours.monday != null %}<tr><td>Monday</td><td>{{ site.data.office_hours.monday }}</td></tr>{% endif %}
+{% if site.data.office_hours.tuesday != null %}<tr><td>Tuesday</td><td>{{ site.data.office_hours.tuesday }}</td></tr>{% endif %}
+{% if site.data.office_hours.wednesday != null %}<tr><td>Wednesday</td><td>{{ site.data.office_hours.wednesday }}</td></tr>{% endif %}
+{% if site.data.office_hours.thursday != null %}<tr><td>Thursday</td><td>{{ site.data.office_hours.thursday }}</td></tr>{% endif %}
+{% if site.data.office_hours.friday != null %}<tr><td>Friday</td><td>{{ site.data.office_hours.friday }}</td></tr>{% endif %}
+{% if site.data.office_hours.saturday != null %}<tr><td>Saturday</td><td>{{ site.data.office_hours.saturday }}</td></tr>{% endif %}
+{% if site.data.office_hours.sunday != null %}<tr><td>Sunday</td><td>{{ site.data.office_hours.sunday }}</td></tr>{% endif %}
+</tbody>
+</table>
+{% else %}
 <h2 class="title is-3 has-text-centered">
 Office Hours
 </h2>
 <p>We're currently not holding regular office hours. <br>Please call to make an appointment if you want to pay us a visit.</p><br>
-
+{% endif %}
 
 
 

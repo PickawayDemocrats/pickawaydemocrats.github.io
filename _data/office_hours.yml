@@ -1,0 +1,11 @@
+#Capitalize at least the first letter (True or False)
+#OR just 1 for True and 0 for False
+regular_hours: True
+#days that are left blank will be hidden
+monday:
+tuesday: 4:30PM - 7PM
+wednesday: 10AM - 2PM
+thursday: 4:30PM - 7PM
+friday: 10:00AM - Noon
+saturday: 12:30PM - 4:30PM
+sunday:
